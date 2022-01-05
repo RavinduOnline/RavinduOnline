@@ -31,7 +31,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduonline" alt="ravinduonline" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravinduonline&theme=juicyfresh&no-frame=true&row=1&rank=S,AAA,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravinduonline&theme=juicyfresh&no-frame=true&row=1&rank=S,B,SSS,S,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
