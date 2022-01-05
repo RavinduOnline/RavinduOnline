@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/ravindu_online" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu_online?logo=twitter&style=for-the-badge" alt="ravindu_online" /></a> </p>
 
 <hr>
-- 🌱 I’m currently learning **BSc(Hons) in Information Technology**
+- 🌱 I’m currently learning **Software Engineering @SLIIT**
 
 - 👨‍💻 All of my projects are available at [https://ravindurasanga.web.app](https://ravindurasanga.web.app)
 
