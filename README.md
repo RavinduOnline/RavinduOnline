@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ravinduonline.mail@gmail.com**
 
-- ⚡ Fun fact **I think I'm always happy and fun**
+- ⚡ Fun fact **I know it's crazy, but I love to eat...🍔**
 
 <hr>
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
