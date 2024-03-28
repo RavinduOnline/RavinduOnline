@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Ravindu Rasanga</h1>
 <hr>
-<h3>Undergraduate In SLIIT @SriLanka</h3>
+<h3>SLIIT Graduate</h3>
 <hr>
 
 <p align="left"> <a href="https://twitter.com/ravindu_online" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu_online?logo=twitter&style=for-the-badge" alt="ravindu_online" /></a> </p>
